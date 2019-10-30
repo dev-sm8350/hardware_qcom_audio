@@ -302,7 +302,7 @@ vendor.audio_hal.period_multiplier=3
 
 #ADM Buffering size in ms
 PRODUCT_VENDOR_PROPERTIES += \
-vendor.audio.adm.buffering.ms=2
+vendor.audio.adm.buffering.ms=12
 
 #enable keytone FR
 PRODUCT_VENDOR_PROPERTIES += \
